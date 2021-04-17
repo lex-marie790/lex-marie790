@@ -1,13 +1,11 @@
 <div align="center">
-  <br>
-<h1>Hi there! I'm Lexi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <br> <h2>A bit about me:</h2>
+<h1>Hi there! I'm Lexi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
+ <h2>A bit about me:</h2>
 <br>
-  <li>
-:woman_technologist: Currently a student at Lambda School. 
-:round_pushpin: Located in LA
-:dog2: Dog Lover 
-  </li>
-
+* :woman_technologist: Currently attending Lambda School. 
+* :mortar_board: May 2021
+* :round_pushpin: Located in LA
+* :dog2::cat2: Dog and Cat Lover 
 
 <h3>Contact Me</h3>
 
