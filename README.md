@@ -2,13 +2,14 @@
   <br>
 <h1>Hi there! I'm Lexi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <br> <h2>A bit about me:</h2>
 <br>
+  <li>
 :woman_technologist: Currently a student at Lambda School. 
 :round_pushpin: Located in LA
 :dog2: Dog Lover 
+  </li>
 
 
 <h3>Contact Me</h3>
-<br>
 
 [![Twitter](https://img.icons8.com/nolan/50/twitter.png)](https://twitter.com/CoderAbroad)
 [![Coder Abroad](https://img.icons8.com/nolan/50/wordpress.png)](https://www.coderabroad.com) [![Linkedin](https://img.icons8.com/nolan/50/linkedin.png)](https://www.linkedin.com/in/alexis-aros/)
